@@ -1,4 +1,4 @@
-# API-weather-IMDB
+# API-Weather-IMDB
 Python program which uses open API and secure API_KEYS (imported by 'prywatne' module) to print formatted weather info and allows to simple search IMDB database. My implementation uses asynchronous way of getting data from APIs to make the program work more efficient
 
 ## Installation
