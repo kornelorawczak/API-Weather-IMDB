@@ -8,4 +8,11 @@ pip install aiohttp
 ```
 
 ## Usage
-Run the program and follow instructions given in the input window
+
+-create your own python file with API_KEYS written in it and import it to the code like I did:
+```python
+from prywatne import API_KEY1, API_KEY2
+```
+
+-Run the program and follow instructions given in the input window
+
